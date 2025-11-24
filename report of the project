@@ -11,7 +11,8 @@ It provides separate logins for Admin, Customers, and Ticket Checkers (TC) and a
 I developed this project to understand file handling, object-oriented programming, and real-time ticket booking concepts in Python
 2. Problem Statement
 
-In traditional offline railway ticket booking, people have to stand in long queues and the process is slow and time-consuming. Also, managing records manually increases the chance of errors.
+In traditional offline railway ticket booking, people have to stand in long queues and the process is slow and time-consuming. 
+Also, managing records manually increases the chance of errors.
 
 This project aims to solve these problems by creating a simple digital system that:
 
