@@ -2,9 +2,11 @@ Train Ticket Booking System
 
 1. Introduction
 
-In today’s digital world, almost everything is shifting towards automation. The railway reservation system is one such area where automation saves time, reduces errors, and makes the entire booking process smoother for both passengers and staff.
+In today’s digital world, almost everything is shifting towards automation. 
+The railway reservation system is one such area where automation saves time, reduces errors, and makes the entire booking process smoother for both passengers and staff.
 
-This project, Train Ticket Booking System, is a console-based Python application developed to simulate the basic working of an online railway ticket booking system. It provides separate logins for Admin, Customers, and Ticket Checkers (TC) and allows them to perform their specific operations.
+This project, Train Ticket Booking System, is a console-based Python application developed to simulate the basic working of an online railway ticket booking system. 
+It provides separate logins for Admin, Customers, and Ticket Checkers (TC) and allows them to perform their specific operations.
 
 I developed this project to understand file handling, object-oriented programming, and real-time ticket booking concepts in Python
 2. Problem Statement
